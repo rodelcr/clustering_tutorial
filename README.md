@@ -11,3 +11,19 @@ numpy
 matplotlib.pyplot
 
 pyCCL (https://ccl.readthedocs.io/en/latest/source/installation.html)
+
+
+Recommended Installation: 
+
+
+conda create --name 'clustering-tutorial'
+
+conda activate clustering-tutorial
+
+conda install pip 
+
+python -m pip install Corrfunc
+
+pip install astropy healpy matplotlib
+
+conda install -c conda-forge pyccl
