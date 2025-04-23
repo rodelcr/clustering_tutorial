@@ -24,6 +24,6 @@ conda install pip
 
 python -m pip install Corrfunc
 
-pip install astropy healpy matplotlib
+pip install astropy matplotlib jupyter
 
 conda install -c conda-forge pyccl
