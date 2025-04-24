@@ -24,6 +24,10 @@ conda install pip
 
 python -m pip install Corrfunc
 
-pip install astropy matplotlib jupyter
+conda install jupyter
+
+pip install astropy matplotlib 
+
+pip install --upgrade numpy==1.26.4 
 
 conda install -c conda-forge pyccl
